@@ -1,5 +1,4 @@
 # Laravel nova field iframe
-[![Build Status](https://img.shields.io/travis/gabrieliuga/laravel-nova-field-iframe/master.svg?style=flat-square)](https://travis-ci.org/gabrieliuga/laravel-nova-field-iframe)
 [![Quality Score](https://img.shields.io/scrutinizer/g/gabrieliuga/laravel-nova-field-iframe.svg?style=flat-square)](https://scrutinizer-ci.com/g/gabrieliuga/laravel-nova-field-iframe)
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/gabrieliuga/laravel-nova-field-iframe.svg?style=flat-square)](https://packagist.org/packages/gabrieliuga/laravel-nova-field-iframe)
 [![StyleCI](https://github.styleci.io/repos/234938102/shield?branch=master)](https://github.styleci.io/repos/234938102)
