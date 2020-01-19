@@ -1,0 +1,30 @@
+{
+    "name": "gabrieliuga/laravel-nova-field-iframe",
+    "description": "Add field to show html content in an iframe.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "iframe"
+    ],
+    "license": "MIT",
+    "require": {
+        "php": "^7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Giuga\\LaravelNovaFieldIframe\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Giuga\\LaravelNovaFieldIframe\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
